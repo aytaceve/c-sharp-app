@@ -1,0 +1,15 @@
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/bin/Debug/net8.0/Classes
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/bin/Debug/net8.0/Classes.deps.json
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/bin/Debug/net8.0/Classes.dll
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/bin/Debug/net8.0/Classes.pdb
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.sourcelink.json
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.dll
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/refint/Classes.dll
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.pdb
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/home/aytac/Documents/Projects/c-sharp-app/Classes/Classes/obj/Debug/net8.0/ref/Classes.dll
